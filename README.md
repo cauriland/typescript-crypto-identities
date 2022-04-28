@@ -1,7 +1,7 @@
 # Cauri - Crypto Identities
 
 <p align="center">
-    <img src="./banner.png?sanitize=true" />
+    <img src="https://raw.githubusercontent.com/cauriland/typescript-crypto-identities/main/banner.png" />
 </p>
 
 > Standalone version of identity interactions for the Cauri Blockchain. Developed for TypeScript.
